@@ -1,0 +1,1 @@
+Execute RunMe.exe into "Math&Magic" folder
